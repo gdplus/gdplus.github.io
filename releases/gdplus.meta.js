@@ -5,7 +5,7 @@
 // @include     https://drive.google.com/*
 // @copyright   2018, XOR
 // @author      XOR
-// @version     2.9.10
+// @version     2.9.11
 // @grant       unsafeWindow
 // @grant       GM_xmlhttpRequest
 // @grant       GM_getResourceURL
